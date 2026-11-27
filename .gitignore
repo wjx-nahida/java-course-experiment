@@ -1,0 +1,10 @@
+# Java 编译输出
+bin/
+*.class
+
+# 编辑器缓存
+.vscode/.java/
+
+# 系统文件
+Thumbs.db
+.DS_Store
